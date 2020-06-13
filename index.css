@@ -1,12 +1,12 @@
 #container {
-	margin-top: 20px;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-top: 30px;
+	margin-left: 300px;
+	margin-right: 300px;
 
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: #D01849;
+	background-color: #869BED;
 
 	text-align: left;
 }
