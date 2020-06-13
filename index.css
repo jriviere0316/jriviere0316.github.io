@@ -6,11 +6,14 @@
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: #869BED;
+	background-color: #86D5ED;
 
 	text-align: left;
 }
 
 #content-contact {
 	 text-align: right;	
+}
+h2 {
+	margin-bottom: -6px;
 }
