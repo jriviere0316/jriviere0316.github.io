@@ -36,3 +36,8 @@ h4 {
 	margin-bottom: -15px; 
 	font-weight: bold;
 }
+#pic {
+	float: center
+		height: 400px
+		width: 400px
+}
