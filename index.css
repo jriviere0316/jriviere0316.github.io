@@ -16,11 +16,7 @@
 	 text-align: center;	
 }
 
-head {
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: scroll;	
-}
+
 h1 {
 	margin-bottom: -20px;
 	font-size: 50px;
